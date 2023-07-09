@@ -1,0 +1,7 @@
+---
+name: zzz
+author: Noel McLoughlin <noel.mcloughlin@gmail.com>
+description: Example Computer Science Shchema derived from biolink-model
+source_schema_path: src/zzz/schema/zzz.yaml
+google_sheet_id: 1wVoaiFg47aT9YWNeRfTZ8tYHN8s8PAuDx5i2HUcDpvQ
+google_sheet_tabs: namedthing enums
